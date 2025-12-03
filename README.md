@@ -1,9 +1,9 @@
 # Kassia_Kuczynski_CS106-03_Portfolio
 This is a portfolio for Kassia Kuczynski
-# FirstName LastName
+# Kassia Kuczynski
 Contact Info: [www.linkedin.com/in/kassia-kuczynski]
 ### About Me 
-[Hello! I am an experienced child psychologist and psychology professional with over 5 years of proven expertise in psychology and child behavior. 
+Hello! I am an experienced child psychologist and psychology professional with over 5 years of proven expertise in psychology and child behavior. 
 
 
 With skills in group, cognitive-behavioral, play, and art therapy, I am able to help children combat mental struggles, and achieve acceptance. I am adept at using Microsoft 365, SPSS, and Google Workspace. 
@@ -11,7 +11,7 @@ With skills in group, cognitive-behavioral, play, and art therapy, I am able to 
 
 My vast skill set, commitment to human connection, and passion for child wellbeing make me a valuable asset.  In my spare time, I like to hike and paint.
 
-You can find me on www.linkedin.com/in/kassia-kuczynski.]
+You can find me on www.linkedin.com/in/kassia-kuczynski.
 
 ### Education 
 [Loyola University Maryland, Psychology B.A]
